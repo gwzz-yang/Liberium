@@ -1,0 +1,11 @@
+name: "Liberium"
+version: ${project.version}
+description: "external plugin loader for ljx"
+author: "gwzz"
+main: "net.gwzz.liberium.Main"
+prefix: "Liberium"
+website: ${project.url}
+#command:
+#  lbr:
+#    usage: "输入 '/lbr help' 查看帮助"
+#    description: "输入 '/lbr help' 查看帮助"
